@@ -1,0 +1,3 @@
+jwt:
+  secret-key: UzNjcjNU
+  expiration: 604800
